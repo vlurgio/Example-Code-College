@@ -1,0 +1,40 @@
+Welcome to vinny's calculator please input a value to start with:3.1415926935
+3.1415926935
+enter a value: e	add: a
+subtract: s		multiply: m
+reverse sign: r		clear: c
+quit: q
+-->m
+value ->2.718281828459
+8.4747273766757470719046
+enter a value: e	add: a
+subtract: s		multiply: m
+reverse sign: r		clear: c
+quit: q
+-->r
+-8.4747273766757470719046
+enter a value: e	add: a
+subtract: s		multiply: m
+reverse sign: r		clear: c
+quit: q
+-->e
+value ->234.99999
+enter a value: e	add: a
+subtract: s		multiply: m
+reverse sign: r		clear: c
+quit: q
+-->s
+value ->2255.87
+-2020.87001
+enter a value: e	add: a
+subtract: s		multiply: m
+reverse sign: r		clear: c
+quit: q
+-->a
+value ->-3333
+-5353.87001
+enter a value: e	add: a
+subtract: s		multiply: m
+reverse sign: r		clear: c
+quit: q
+-->
